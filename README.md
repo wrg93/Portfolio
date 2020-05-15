@@ -1,4 +1,4 @@
-# UCLA_HW_2
+# Portfolio
 I used basic Bootstrap grids and components for this project. 
 
 Only in a few instances did I need to edit the CSS the directly, predominantly to limit the height on my index.html file.
